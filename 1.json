@@ -1,19 +1,34 @@
 {
-  "title": "1",
+  "title": "Gentle Connect 4",
   "description": "",
-  "artist": "",
+  "artist": "Mana",
   "author": "",
-  "cover": "",
+  "cover": "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/936989070427562094/001.jpg",
   "chapters": {
     "1": {
       "title": "1",
       "volume": "1",
       "last_updated": "1643455271",
       "groups": {
-        "W": [
-          "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/936943072208621578/1.png",
-          "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/936943072208621578/1.png",
-          "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/936943072208621578/1.png"
+        "No Group": [
+          "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/936989070427562094/001.jpg",
+          "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/936989072956735518/002.jpg",
+          "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/936989076249268274/003.jpg",
+          "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/936989079147524096/004.jpg",
+          "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/936989082142265394/005.jpg",
+          "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/936989086407872603/006.jpg",
+          "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/936989089410990100/007.jpg",
+          "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/936989091973693460/008.jpg",
+          "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/936989094557417512/009.jpg",
+          "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/936989097455673354/010.jpg",
+          "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/936989100081315951/011.jpg",
+          "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/936989103331893299/012.jpg",
+          "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/936989105861062666/013.jpg",
+          "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/936989108180500510/014.jpg",
+          "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/936989110684512326/015.jpg",
+          "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/936989114413219890/016.jpg",
+          "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/936989116074184714/017.jpg",
+          "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/936989117479288922/018.jpg"
         ]
       }
     }
