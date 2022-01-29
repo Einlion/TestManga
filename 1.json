@@ -11,9 +11,9 @@
       "last_updated": "1643455271",
       "groups": {
         "W": [
-          "http://localhost:4000/get?url=https://cdn.discordapp.com/attachments/926390087938367541/936943072208621578/1.png",
-          "http://localhost:4000/get?url=https://cdn.discordapp.com/attachments/926390087938367541/936943072208621578/1.png",
-          "http://localhost:4000/get?url=https://cdn.discordapp.com/attachments/926390087938367541/936943072208621578/1.png"
+          "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/936943072208621578/1.png",
+          "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/936943072208621578/1.png",
+          "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/936943072208621578/1.png"
         ]
       }
     }
