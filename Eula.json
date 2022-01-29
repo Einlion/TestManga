@@ -3,7 +3,7 @@
   "description": "",
   "artist": "Mana",
   "author": "",
-  "cover": "",
+  "cover": "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/937053184583684116/01.jpg ",
   "chapters": {
     "1": {
       "title": "1",
@@ -31,6 +31,9 @@
           "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/937053304322678824/18.jpg  ",
           "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/937053312572870716/19.jpg  ",
           "https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/937053320546234449/20.jpg  ",
+          "  https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/937053996298940557/21.jpg  ",
+          "  https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/937054005799026688/22.jpg  ",
+          "  https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/937054012577026158/23.jpg  ",
           "   https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/937053902384300063/24.jpg  ",
           "  https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/937053910735159356/25.jpg  ",
           "  https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/937053920029708288/26.jpg  ",
@@ -43,9 +46,7 @@
           "  https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/937053968687849482/33.jpg  ",
           "  https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/937053977835630602/34.jpg  ",
           "  https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/937053987658686484/35.jpg  ",
-          "  https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/937053996298940557/21.jpg  ",
-          "  https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/937054005799026688/22.jpg  ",
-          "  https://encrypt.altina.me/get?url=https://cdn.discordapp.com/attachments/926390087938367541/937054012577026158/23.jpg  "
+          ""
         ]
       }
     }
